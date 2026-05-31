@@ -1,6 +1,5 @@
 
 def main():
-  pass #code goes here
 
     # File: initials.py
     # Description: Print out my initials with only print function and strings.
